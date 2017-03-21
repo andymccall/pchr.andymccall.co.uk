@@ -4,6 +4,8 @@ GUI for showing the md5sum of strategy files for Experian Powercurve Origination
 
 ## Build Status
 
+[![Build Status](https://travis-ci.org/andymccall/pchr.andymccall.co.uk.svg?branch=master)](https://travis-ci.org/andymccall/pchr.andymccall.co.uk)
+
 ## Usage
 
 To configure strategy locations edit applications.properties to point to the relevant strategy files.
